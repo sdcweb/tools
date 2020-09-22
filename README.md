@@ -34,3 +34,9 @@
   12. Domain delegation
   13. DNS editor
   14. Calendar
+
+## ImprovMX
+- Mail forwarding service, works with providers like GMail
+
+## Zoho
+- Full productivity suite
