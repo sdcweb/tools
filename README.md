@@ -1,16 +1,20 @@
 # Tools
 
-## DNS Check
+## DNS Propagation Check
 
 - <https://www.whatsmydns.net/>
 - <https://dnschecker.org/>
 - <https://perfops.net/pricing>
 - <https://dnsmap.io/>
 - <https://www.gdnspc.com/>
+- <https://www.nexcess.net/web-tools/dns-checker/>
+- <https://dnspropagation.net/>
+- <http://www.geektools.com/digtool.php>
 
 ## IP Checks
 
-- <https://whatismyip.com>
+- <https://whatismyip.com/>
+- <https://mxtoolbox.com/>
 
 ## Google Domains
 
@@ -19,7 +23,11 @@
 ## CDN / DNS
 
 - Cloudflare
-- Incapsula
+- Nexcess
+
+## Gravatar
+
+- <https://en.gravatar.com/>
 
 ## Freenom Domains
 
@@ -29,7 +37,7 @@
   3. .ga - Country: Gabon
   4. .cf - Country: Central African Republic
   5. .gq - Country: Equatorial Guinea
-- DNS takes what seems to be forever in modern times. Do not expect DNS changes within the first 24 hours. Get this on a CDN to fix the issue.
+- DNS here seems to take forever, getting initial results only after 24 hours.
 
 ## Site Building
 
@@ -62,7 +70,7 @@
 
 ## ImprovMX
 
-- Mail forwarding service, works with providers like GMail
+- Mail forwarding service, works with only one recipient per domain
 
 ## Zoho
 
