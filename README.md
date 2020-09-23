@@ -3,6 +3,10 @@
 ## DNS Check
 
 - <https://www.whatsmydns.net/>
+- <https://dnschecker.org/>
+- <https://perfops.net/pricing>
+- <https://dnsmap.io/>
+- <https://www.gdnspc.com/>
 
 ## IP Checks
 
@@ -25,6 +29,13 @@
   3. .ga - Country: Gabon
   4. .cf - Country: Central African Republic
   5. .gq - Country: Equatorial Guinea
+- DNS takes what seems to be forever in modern times. Do not expect DNS changes within the first 24 hours. Get this on a CDN to fix the issue.
+
+## Site Building
+
+- <https://www.netlify.com/>
+- <https://www.netlify.com/>
+- HubSpot & hs-scripts.com
 
 ## Code Sharing
 
