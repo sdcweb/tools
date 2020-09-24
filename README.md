@@ -30,6 +30,10 @@
 
 - <https://en.gravatar.com/>
 
+## DNSSEC test
+
+- <https://dnssec-analyzer.verisignlabs.com/
+
 ## Freenom Domains
 
 - <https://my.freenom.com/clientarea.php>
