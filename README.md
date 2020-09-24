@@ -10,6 +10,7 @@
 - <https://www.nexcess.net/web-tools/dns-checker/>
 - <https://dnspropagation.net/>
 - <http://www.geektools.com/digtool.php>
+- <https://toolbox.googleapps.com/apps/main/
 
 ## IP Checks
 
