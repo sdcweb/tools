@@ -18,7 +18,7 @@
 4. **GitHub Desktop** (The Linux Fork)
     I want to start thanking `shiftkey` (<https://github.com/shiftkey/desktop>) for forking this for us. This forked client is very simplistic and has very few features. While it is a very basic client, it does the basics very well and remains installed for intermittent use.
 
-## IDEs with Integrated or Supported Git
+## IDEs with Integrated or Support for Git
 
 1. **Microsoft Visual Studio Code**
    This is, without question, my favorite IDE with Git support, including commit signing... basically eliminating the need for a separate Git client.
@@ -30,4 +30,4 @@
    Great IDE I like especially for Java. I do not care for the implementation of Git support, but it is there. I see as a close second to VSCode for coding only (not Git), but not really needed is VSCode works for you.
 
 4. **Sublime Text**
-   This is a great program and can serve many purposes. However, this comes at last due to being paid and proprietary software. While that is a killer, it deserves to be mentioned as its functionality is great. If you have access to it, great! If not, skip it. As with Eclipse, the Git support is subpar to me.
+   This is a great program and can serve many purposes. However, this comes at last due to being paid and proprietary software. While that is a killer, it deserves to be mentioned as its functionality is great. If you have access to it, great! If not, skip it. As with Eclipse, the Git support is subpar to me. Another discouraging part is that in addition to Text, there is also Merge nad DeepGit
