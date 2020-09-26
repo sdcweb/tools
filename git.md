@@ -21,13 +21,13 @@
 ## IDEs with Integrated or Support for Git
 
 1. **Microsoft Visual Studio Code**
-   This is, without question, my favorite IDE with Git support, including commit signing... basically eliminating the need for a separate Git client.
+   Without question, my favorite IDE with Git support, including commit signing... basically eliminating the need for a separate Git client. It is loaded with functionality and extension that add even more.
 
 2. **Atom by GitHub**
-   While my preferences do not take me to use of Atom often, I believe that wne it comes to development w/ Git, this is a top choice. While loaded with features, my personal preference leans to VSCode. Atom is clearly an alternate #1.
+   While my preferences do not take me to use Atom often, it is a solid product. The integrated Git support and functionality is top notch. Atom lacks some of the ease of use features of VSCode out of the box, but with extensions, they can be added. With the seamless integration with GitHub and customization possibilities, it is a tool worth keeping.
 
 3. **Eclipse**
-   Great IDE I like especially for Java. I do not care for the implementation of Git support, but it is there. I see as a close second to VSCode for coding only (not Git), but not really needed is VSCode works for you.
+   Great IDE I like especially for Java. I do not care for the implementation of Git support, but it does work. Outside of Java, I do not use it for much.
 
 4. **Sublime Text**
-   This is a great program and can serve many purposes. However, this comes at last due to being paid and proprietary software. While that is a killer, it deserves to be mentioned as its functionality is great. If you have access to it, great! If not, skip it. As with Eclipse, the Git support is subpar to me. Another discouraging part is that in addition to Text, there is also Merge nad DeepGit
+   This is a great program and can serve many purposes. However, this comes in last due to being paid and proprietary software. While that is a killer, it deserves to be mentioned as its functionality is great. If you have access to it, great! If not, skip it. As with Eclipse, the Git support is sub par to me. Another discouraging part is that in addition to Text, there is also Merge and DeepGit that open to perform certain tasks.
