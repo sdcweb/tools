@@ -2,7 +2,7 @@
 
 ## DNS Propagation Check
 
-- <https://www.whatsmydns.net/>
+- <https://www.nslookup.io/>
 - <https://dnschecker.org/>
 - <https://perfops.net/pricing>
 - <https://dnsmap.io/>
@@ -10,12 +10,15 @@
 - <https://www.nexcess.net/web-tools/dns-checker/>
 - <https://dnspropagation.net/>
 - <http://www.geektools.com/digtool.php>
-- <https://toolbox.googleapps.com/apps/main/
+- <https://toolbox.googleapps.com/apps/main/>
 
 ## IP Checks
 
 - <https://whatismyip.com/>
 - <https://mxtoolbox.com/>
+
+## ISP Checks
+- <https://www.whoismyisp.org/>
 
 ## Google Domains
 
@@ -46,7 +49,6 @@
 
 ## Site Building
 
-- <https://www.netlify.com/>
 - <https://www.netlify.com/>
 - HubSpot & hs-scripts.com
 
